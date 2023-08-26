@@ -1,0 +1,32 @@
+.containerBasket {
+  margin: 0px 80px;
+  .flexContainer, .flexContainerBasket {
+    display: flex;
+    justify-content: space-between;
+    color: black;
+  }
+  .basketContainerInfo {
+    border-radius: 40px;
+    background: #ffb5d9;
+    width: 433px;
+    padding: 30px;
+    height: 100%;
+    .btnContainer{
+      display: flex;
+      justify-content: center;
+      margin-top: 30px;
+    }
+    .Line {
+      border-bottom: 2px solid black;
+      margin-top: 30px;
+      .flexContainerBasket{
+        height: 60px;
+        align-items: center;
+      }
+      .h6TitleText{
+        line-height: 0px;
+        font-size: 32px;
+      }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+.cardContainer {
+  background: linear-gradient(135deg, #e2de80 0%, #ffb5d9 100%);
+  width: 267px;
+  overflow: hidden;
+  padding-top: 30px;
+  border: none;
+  height: 354px;
+  cursor: pointer;
+  border-radius: 40px;
+  margin-left: 23px;
+  margin-top: 20px;
+  transition: transform 400ms;
+  &:active{
+    transform: translateY(-10px);
+    transform: scale(102%);
+  }
+  &:hover{
+    filter: brightness(80%);
+  }
+  .titleText {
+    text-align: center;
+    font-size: 56px;
+    margin-top: 50px;
+    color: black;
+    line-height: 0px;
+  }
+  .img {
+    width: 237px;
+    height: 237px;
+    margin-top: 30px;
+  }
+}

@@ -1,0 +1,53 @@
+:root {
+  color-scheme: light dark;
+  color: white;
+  background-color: rgba(0, 0, 0, 1);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+@font-face {
+  font-family: Gropled;
+  src: url(./fonts/Gropled-Bold.otf);
+}
+@font-face {
+  font-family: Manrope;
+  src: url(./fonts/Manrope-VariableFont_wght.ttf);
+}
+.link{
+  text-decoration: none;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+p, h6{
+  text-align: justify;
+  font-family: Manrope;
+  font-weight: 700;
+  line-height: 32px;
+  font-size: 18px;
+}
+h6{
+  line-height: 0px;
+}
+h4 {
+  font-family: Gropled;
+  font-size: 38px;
+  font-weight: 700;
+}
+h2 {
+  font-family: Gropled;
+  font-size: 74px;
+  color: white;
+  font-weight: 700;
+}
+h3 {
+  font-family: Gropled;
+  font-size: 56px;
+  font-weight: 700;
+}
+body {
+  margin: 0;
+}

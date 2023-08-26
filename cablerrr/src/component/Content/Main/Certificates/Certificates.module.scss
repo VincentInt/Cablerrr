@@ -1,0 +1,16 @@
+.containerCertificates {
+  display: flex;
+  .window {
+    overflow: hidden;
+    max-width: 1000px;
+    max-height: 706px;
+    transition: transform 1s ease;
+
+    .pagesContainer {
+      display: flex;
+      .img {
+        margin-right: 30px;
+      }
+    }
+  }
+}

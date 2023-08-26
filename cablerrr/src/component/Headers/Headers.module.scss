@@ -1,0 +1,22 @@
+.headersContainer {
+  display: flex;
+  align-items: center;
+  height: 120px;
+  padding: 0px 80px;
+  justify-content: space-between;
+  .logoContainer {
+    display: flex;
+    align-items: center;
+    .logoText {
+      margin-left: 10px;
+    }
+  }
+  .BtnContainer {
+    display: flex;
+    align-items: center;
+    .insideBtnContainer {
+      display: flex;
+      align-items: center; 
+    }
+  }
+}

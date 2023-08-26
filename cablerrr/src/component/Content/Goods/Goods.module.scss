@@ -1,0 +1,30 @@
+.containerGoods {
+  padding: 0px 80px;
+  .containerTitleFlex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .h6Text {
+      font-family: Manrope;
+      font-size: 44px;
+    }
+  }
+  .goodsCardFlex {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .containerRecommend {
+    margin-top: 180px;
+  }
+  .selectAndTitleFlex {
+    display: flex;
+    align-items: center;
+    .btnSelect{
+      display: flex;
+      align-items: center;
+      margin-left: 50px;
+    }
+    
+  }
+}

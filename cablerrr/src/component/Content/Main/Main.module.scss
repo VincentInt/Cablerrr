@@ -1,0 +1,69 @@
+.banner {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  height: 900px;
+  background: var(--bg-grad, linear-gradient(135deg, #e2de80 0%, #ffb5d9 100%));
+  border-radius: 80px;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  color: black;
+  align-items: center;
+  .svgAbsolutle {
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    height: 900px;
+    .flexSvgContainer {
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+  .bannerTextContainer {
+    z-index: 2;
+    .titleText {
+      font-family: Gropled;
+      font-size: 84px;
+      font-weight: 700;
+    }
+    .pText {
+      font-size: 18px;
+      font-style: normal;
+      text-align: center;
+      font-weight: 500;
+      line-height: 32px;
+    }
+    .btnContainer {
+      display: flex;
+      justify-content: center;
+      margin-top: 56px;
+      .svgIconBtn {
+        margin-left: 5px;
+      }
+    }
+  }
+}
+.containerSentences {
+  margin-top: 180px;
+  padding: 0px 80px;
+  .goodsCardFlex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .cardSentencesPosterContainer{
+    display: flex;
+    .cardSentencesPoster{
+      color: black;
+      width: 670px;
+      padding: 100px 80px;
+      border-radius: 80px;
+      background-color: #e2de80;
+      &:last-child{
+        margin-left: 20px;
+        background-color: #FFB5D9
+      }
+    }
+  }
+}

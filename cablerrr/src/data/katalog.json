@@ -1,0 +1,64 @@
+{
+  "katalog": [
+    {
+      "id": 1,
+      "title": "ВВГнг",
+      "img": "https://s3-alpha-sig.figma.com/img/b8fa/b82d/6f7d1c317c85cf38d46c02eaa42ce8e9?Expires=1693785600&Signature=AvbKobiB6w-kNnlm-F3plSYsdZqwEdoCv6B~a89wngcXTse0pXEaIQg24BJHCWX31SDdkX-WQO9unsmUmhpPYCAfoMeJAWT0G8IioFQeGyhfPaJqaCSC7eriQAXJqF8e17SH3uxhlGo7ko6lyJIy-p3wTqc2mQMF8JdTWomXDMz0JeFzMhpz6NEakxnQGRnnWlnoDkX99wPtlE-rrSO5po0u60Bo2txDvps4-sb~ZJ6YEnDm-hBbdUDF9orHzkDNEAnXSQ0nhJnKca9idwE5aFan1QIqadDK7Dx7ZRE7xwp8A2RXYYtAHRWde9hafsie9hIog5VQyrdZgEBd82mxVw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    },
+    {
+      "id": 2,
+      "title": "ППГнг",
+      "img": "https://s3-alpha-sig.figma.com/img/4145/da47/8b5e7d8fe17458d905ecd6cd7d195f9a?Expires=1693785600&Signature=dMdHwKqPqpXn7w3gK79hZ~Hj5QX8GvrG8ajSzhCs9j9YNqZ9XbgKSD1dpfii8QsQUqkb~j6toBVOrxE8dYrp6FHhEkbqTaA8DzkFSimq1flit74eYO9RhcF2kVhl4olgboyD3E4t98dWXrFotJQyf8Hl4j6t~s0VdFQrgkFjaLR6BT3NTg1nvehdBGh4oY~B1EvxTX3sFHHiW1spKZUssJhVkR8wEc5hv00iVRh-upI9wdotf0yLtFgYSjJA7aNZ78VwoNodQkE0As9rU-C6qtTswURy6G7UUCjUsPVmLa0JFB7W7UU-f0Xfkt6A91ICT65OZATWES5PKsj54mROWQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    },
+    {
+      "id": 3,
+      "title": "КГ",
+      "img": "https://s3-alpha-sig.figma.com/img/95d3/277d/30c047896482f1691609791464cd6875?Expires=1693785600&Signature=WMumpUs2qs4nr3ABm~iRVCbB4MHDqC5DAi8WCOnRm52YMdUOo~6LqOUqHZMY7WpYCcnebm-BWqW4iStcZcHCWXWARiSxxs~PIGS40JjeYCZdRx3DH9CeKWlNRPKyaGJw21ZJOvlEr32Ye3SSDoXQEQLGYpGqA6yn60qmM4uNrmaYqNiTHE-9mYfJOU5eVQP9JMEs9cgCccTvRmwtrl23BgS~YUw2QaTPf1pQh~NuNQ9pyzkP2eSBJzxOrFfv~OOf7x86JiB-FSkVlAkbnKe~MPqoOCNwI~wVVcYLpvXk8fFg6HJVlzAJYcNcmbqkcgb~xgAYkrAZAOQzXFxMf4Vu7g__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    },
+    {
+      "id": 4,
+      "title": "ПуГВ",
+      "img": "https://s3-alpha-sig.figma.com/img/d1f3/bfb0/73396660771713ddfb7154d57c948e13?Expires=1693785600&Signature=Y3ZgzfXIjNRaVwbDwNiCMLnMzBfW40RjuuPfDXawi2uTHiKkjGs~jMrmI422Kg4DP6cvgTIvvMLoMK-O67oKFchwc89PvTHfYuQqTV1Wheb3mCXBr2XxxNa5S6KyCtt7Mv9PI4WTaYPkqPtSo3aCWCnweAkmva0MiVUI5~44xqsMENNOCk3L308ZMbQq6pbEQgkMwzY~QPqh4VPD6oGsmNKyI0Hz20ATo5VQF5cjXVCl9AXQsBQ5mXFryjjZoKMQ-tc7ZCQp-sRm2RZ2QdFyByUlgEPeMi1ngdRmTDeeUDe9yjQAamFtA~JkGd85QFrgxXpiUAUcHyFVHmJwO58AMw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    },
+    {
+      "id": 5,
+      "title": "СИП",
+      "img": "https://s3-alpha-sig.figma.com/img/1c60/fd0b/287fb54dba6590e38aeb513560e155e1?Expires=1693785600&Signature=mEZqXwERSfUrObUKsF8xw5q2opjU67N1~BRKw8LpjTWoAr5IVgHMM46Wdcj5RlNwpg49ubmr0tFEU2UD9-IejOpkaBBQ2b0VmJY2fDHBLQujNwc4N7cP1R9QsRS8ZO5TVUc2IcHQlRhq6WNaIcwUDTSm1c0shvWEVTyoVOtIFrabZRFgKDvYrM-LzdyoO4f~Zpt9XTbnCEJU8KG8fKXjN3Ce-4XAyKOmmnc5o3mETEMLPu7KaVAFD3rpmKcamsR-TpLi1tm74N4p5DWSdh~tWhy4RvAQ1whyDCMN9m1q3BFDE8tXLw35xpR8HJ1pm17cuV8hpADIZXubga1OdGpmeg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    },
+    {
+      "id": 6,
+      "title": "ПВС",
+      "img": "https://s3-alpha-sig.figma.com/img/235a/c593/584f3c9b92dc5c87774f826fda499d98?Expires=1693785600&Signature=h3x-Wife5yQ1xveL1ecgBqhncMbbLoCBHBeueKgFTfbXHZJvoOonQFXctks2mthDvevVs~3rACfGPG96C9TP4BWATNGL61R6spbqR0FCyLa8I4Dcsx7vt2i-u26lDgRFaZjYklZViWSN6p1doKwztw3ctM559DkUOAZxfzSFBtjQAHQun3bIpRtS4BxIpb2VMOckMUArwDu4QDI6kkZAmn1PdGtv-vnnFb0tfjf~cy62NiMmS6KkGSDWGJlKxAk35xcJNKexENBnstQwtFsQ9gh29okTA088D364LqSJKLzJKkxZhKckF0C8KqTLQTw97SiP9-tsiA5mYk1kBaiP9g__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    },
+    {
+      "id": 7,
+      "title": "ВБШв",
+      "img": "https://s3-alpha-sig.figma.com/img/51a9/7574/da8d9ab7747900452dd4722e4c159796?Expires=1693785600&Signature=cOmHztH-cLd~mPI0m4yshxpYnLeeBIyhY3L6Ol9k5mz6y-v8CBREjraqcXtt00Tfi~OEFldAJ1FPE~~w8gc86n-QXq5IenJRRYxcrxM3Sj5JfuHQ9pkXMhOEkek8HGlAXHLLgSOUkrifNla7O0djJE9Q2otQYgTqbk~~JgkYKkYGSr0paHL~PEqLQwvQs2bpMNnmOlC0NTbZICs5TWLbUTLMWfXWooqkdQjKV28RBQfWsEOxHIbsmhgd~ijaoeJvFeo-CrVVMHS6mpRP0KTNSsGayOh5CgMaaRjCF90fYJjGIrClySQvDERiISaCi1HA2CjmRAYxjndKzlPZsZ-x5g__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    },
+    {
+      "id": 8,
+      "title": "МКЭШ",
+      "img": "https://s3-alpha-sig.figma.com/img/91e8/21bd/6b91746b0c8dba9dd16485815242a6b9?Expires=1693785600&Signature=KZ~EuweWvZJ8KlyOT56lNrmkhHNX5eZ~lcsaHBsFW0wvogIHjcQA7bhHovHkeqJ7ahxp-1H07KWFWq8RW2v0h~DpTV4uJX6FfPyIckOpCEm-MMOeLW6ZBhJYOodKDRumn3L59Tym3IAzH3dsy5I2FGQIRy0LEuNgIVDAoidrUt0ncc4VtMIWAQVUcdig4D46NK07OJXhiNTSN9LRmXOYpqm4emmk46CzQGOB0JI6JcTYTkpP2QCodV~K205FyKwxSALWxCUxp7dIYec-AJpno1B6gp174CdLvDIAVwOiJ5hFWfm3BZ~lCQlrk7LEv5theR~R9fllP4~2Hsnnk1yTyA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    },
+    {
+      "id": 9,
+      "title": "АВВГ",
+      "img": "https://s3-alpha-sig.figma.com/img/5489/f45c/7f2cb16e8c633a2301a6392db903bd20?Expires=1693785600&Signature=JB3WUK1OHstHwOwzCd3-hN4VfKy2UJ-kNTgP1xNSQjbD4P77VfNkZ1cNIXY03mo6ES1Oir7U1PL3zkYJYoWYp1T8K7vmaGJICLGTL~iVNzsjiK7YtptSxA~Qek4ltuBSVcWzk3IG1nP6kc~1KGqM0pyRr~t5P7vLLYGWOf2uQmPMo-98CdLHoMfLfcbLIjs1dygxQtkNninUbBItT2mgyvdwqVlJH44ijyzuch3yTl2zXn3PGRjPa-3zua5GOsSVn9qKvnN21KKqKgbz7-69ncaQw10VuU8z-F7STYmSVremYoV7M84KxtvMTEH13GSGZNzMtdA1FXlwC88hpM0MCg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    },
+    {
+      "id": 10,
+      "title": "ВПП",
+      "img": "https://s3-alpha-sig.figma.com/img/8856/0025/4a7240ce1ee7c13df3903c6399409a3f?Expires=1693785600&Signature=ConZKzTJrYrevCJSf5cuL-Z86kWchJ4-qSiAMAolM9FzAZi5V6kbfP4ct6~QdWT7ll8ZlPZ7cq3kjHzydbhgNXhs9DAKIhu5liRRWsvZQnFs2uPnaGXG2ZFkIyyk224fQixOJh4HJxQuGte44RR715T4mL4FO4iW6KuAfgPHvS8zlGXhteHvbpZ4SlC2h0cO7W3s-aPbhijsToEXy0tVCaZB8po5Jc5T4CZhdG~4QsaYkiiJP6ET0wc~cUYGUpm9FZ4xTXjFjJz37yB9xlTtY1c-a1Q2EQ9yZu7gvel0Xm7P4SwObnjylIkjp-W8cDMw1TP2Aji6mxWzhzMgr0A6Rg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    },
+    {
+      "id": 11,
+      "title": "РПШ",
+      "img": "https://s3-alpha-sig.figma.com/img/56df/a8c8/65734672a61ee8904bc4892770082b2f?Expires=1693785600&Signature=BXZg92Dy-zcfkPE7FAMlGxeEyG9rUWJ-q2wMN4PlfTjy17Rna5PcvKOV6j~bdbScFRdRRGv74DhTidErFjgB5as--Y2FP67PfI8C8wAegIq5ePRnIhKymd7JbiRjfgUkDk0CCzYgnsTUd7Uy0NGKNw1PDcay6XAyPg~XDT8wphlar64yBXHcap7ucKKxxQnNPbbf7XsRpGMxykSru4ketoWAGwi3uoQZVbleaVTUrCpJeTF6gdDFcw~zpjNeuhjkENKbn3u-OyQU8YI~PUfRN7tvAfAOxO3x0scndhgiggb4rSxpm7cKyfFsqbLZPPXlLLRrY71CQQRzEMfm5DT1Dw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    },
+    {
+      "id": 12,
+      "title": "Ретро",
+      "img": "https://s3-alpha-sig.figma.com/img/5203/5785/65ace8ba96e2b327c4ad87b5f7dad495?Expires=1693785600&Signature=TZXkHk-4cSTccuUN2cIy-NM01Y1qguUmjHzp-vX8jmq0iJ06gbVOjo~vqUHf7nhVo6j4fXi11hs408zb8BHvThGOaHcSCjQRhGQz9jQ~pEFr5uEeWS7xNuWfOaA70KO0aVdn5pJs7sAWvGBZa-XIycjX7Qw4uj1ih6k~UPALebrF29ahNmSvSrjIYb5iWH2SKV46R~FhV9XOSFCkHZHlxYxsZcAwTaTSi8nlgoI6EsBUyY8Bru7EqTRNqDOKUPoh55jzoo6H7QpZkQnlOA2BILKAitan8N~ulHRIPtsjjy03uds~kjVf6XnfXS027rh6VFnXrfz476MluWRoxxgSMg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+    }
+  ]
+}

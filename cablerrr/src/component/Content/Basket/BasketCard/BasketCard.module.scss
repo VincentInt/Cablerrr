@@ -1,0 +1,33 @@
+.containerBasketCardFlex{
+  display: flex;
+  border-radius: 40px;
+  background:  #E2DE80;
+  padding: 30px;
+  height: 260px;
+  width: 1100px;
+  justify-content: space-between;
+  margin-bottom: 30px;
+  .flexContainer{
+    display: flex;
+  }
+  .img{
+    width: 250px;
+    height: 250px;
+  }
+  .textContainer{
+    margin-left: 30px;
+    height: 100%;
+  .h6Title{
+    margin-top: 35px;
+    font-size: 32px;
+  }}
+  .priceContainer{
+    display: flex;
+    justify-content: center;
+   .h6Title{
+    text-align: center;
+    margin-top: 35px;
+    font-size: 32px;
+   }
+  }
+}
